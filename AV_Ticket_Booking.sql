@@ -1,3 +1,5 @@
+-- Till Q5 in Screenshots continued with Q6
+
 -- TASK 2
 -- 6. Write a SQL query to retrieve events with dates falling within a specific range. 
 Select event_name , event_date 
